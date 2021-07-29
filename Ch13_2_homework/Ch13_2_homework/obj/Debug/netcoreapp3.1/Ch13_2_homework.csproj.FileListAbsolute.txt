@@ -1,0 +1,13 @@
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.csprojAssemblyReference.cache
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.AssemblyInfoInputs.cache
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.AssemblyInfo.cs
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\bin\Debug\netcoreapp3.1\Ch13_2_homework.exe
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\bin\Debug\netcoreapp3.1\Ch13_2_homework.deps.json
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\bin\Debug\netcoreapp3.1\Ch13_2_homework.runtimeconfig.json
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\bin\Debug\netcoreapp3.1\Ch13_2_homework.runtimeconfig.dev.json
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\bin\Debug\netcoreapp3.1\Ch13_2_homework.dll
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\bin\Debug\netcoreapp3.1\Ch13_2_homework.pdb
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.dll
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.pdb
+C:\Users\T\source\repos\Ch13_2_homework\Ch13_2_homework\obj\Debug\netcoreapp3.1\Ch13_2_homework.genruntimeconfig.cache
